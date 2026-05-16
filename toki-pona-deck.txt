@@ -11,7 +11,7 @@ pona:bom, consertar.
 ike:ruim.
 moku:comer, comida.
 suli:grande, importante.
-toki:linguagem.
+toki:comunicar.
 li:separa o sujeito do predicado, exceto “mi” ou “sina”.
 lili:pequeno.
 telo:líquido.
